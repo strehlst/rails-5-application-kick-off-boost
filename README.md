@@ -1,24 +1,4 @@
-# README
+# Key Results Monitor
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Synopsis
+This application provides compiled data on various aspects of the platform. Its purpose is to easily evaluate impact of campaigns on key aspects of the organisation\'s business.
