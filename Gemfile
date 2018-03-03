@@ -44,7 +44,7 @@ gem 'jbuilder', '~> 2.5'
 
 group :production do
   # Use PostgreSQL as the database for Active Record
-  gem 'pg', '~> 0.20'
+  gem 'pg', '~> 1.0'
 end
 
 group :development, :test do
