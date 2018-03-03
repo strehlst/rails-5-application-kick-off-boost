@@ -1,4 +1,4 @@
-# Key Results Monitor
+# Rails 5 Application Kick Off Boost (Time Saver)
 
 ## Synopsis
-This application provides compiled data on various aspects of the platform. Its purpose is to easily evaluate impact of campaigns on key aspects of the organisation\'s business.
+Start a new app quickly with all the good stuff already set up. And save a lot of time.
