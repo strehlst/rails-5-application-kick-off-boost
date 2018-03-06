@@ -4,6 +4,9 @@
 ## Synopsis
 Start a new app quickly with all the good stuff already set up. And save a lot of time.
 
+## Fork and rename
+Fork this app and name it as you please. rgrep the old app name or [have a look at this commit](https://github.com/strehlst/rails-5-application-kick-off-boost/commit/b160710f3fe0277133a8e7bf9d24ab004c1a00e6) to know the spots where you need to replace the old name by your chosen app name.
+
 ## Setup
 ### Postgres Database
 Install Postgres 10.2 locally. Then create a user and two databases as follows.
