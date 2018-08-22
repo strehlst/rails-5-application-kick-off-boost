@@ -7,4 +7,4 @@ test:
 production:
   adapter: redis
   url: redis://localhost:6379/1
-  channel_prefix: rails-5-application-kick-off-boost_production
+  channel_prefix: mge-crowdpilot_production
