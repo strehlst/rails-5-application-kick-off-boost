@@ -69,7 +69,7 @@ end
 
 group :test do
   # Use Code Climate test-reporter to track test coverage and code quality
-  gem 'codeclimate-test-reporter', '~> 1.0.0'
+  gem 'codeclimate-test-reporter', '~> 1.0.9'
   gem 'simplecov', require: false
 end
 
