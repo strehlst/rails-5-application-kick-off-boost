@@ -24,7 +24,7 @@ gem 'uglifier', '>= 1.3.0'
 # gem 'therubyracer', platforms: :ruby
 
 # Use Haml markup
-gem 'haml', '~> 5.0.3'
+gem 'haml', '~> 5.2.1'
 # Use Haml as templating engine
 gem 'haml-rails', '~> 1.0.0'
 
